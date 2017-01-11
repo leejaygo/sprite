@@ -1,0 +1,17 @@
+{
+  "name": "imgSprite",
+  "version": "1.0.0",
+  "description": "自动生成雪碧图以及样式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leejaychow",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp.spritesmith": "^6.2.1",
+    "merge-stream": "^1.0.1"
+  }
+}
